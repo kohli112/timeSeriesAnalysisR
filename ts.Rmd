@@ -1,9 +1,3 @@
----
-title: "MSCI 718 Final Project"
-author: "Karan Kohli and Rishabh Karwayun"
-date: "April 2020"
-output: pdf_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
